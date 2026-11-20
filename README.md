@@ -1,36 +1,126 @@
-![Hello World, I'm Harune, be very welcome!](https://i.pinimg.com/736x/23/0a/5d/230a5de1a64a7c1a91dba3868854b475.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=Naka-Harune&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        Hello World, I'm Harune, be very welcome!
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.tiktok.com/@https://www.tiktok.com/@naka_haru_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/Naka-Harune" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">🌟 Developer in progress, working on a port for the Poco X7 Pro. Skilled in HTML, Python, Fastboot, and .method editing. Currently learning C++ and designing banners while expanding my skills!</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **Porting MuriUI/RealmeUI for Poco X7 Pro.**
-- 🌱 I'm currently learning: **Exploring C++ and improving my Python skills.**
-- 💬 Ask me about: **HTML, Fastboot, .method editing, banner design, and custom ROM development.**
-- ⚡ Fun fact: **I was the first Brazilian to participate in the initial tests for adapting ROMs for the Poco X7 Pro.**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="28" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="28" alt="Android" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VSCode" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Naka-Harune&theme=dark&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=weekly&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Naka Haru Banner">
 </p>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=75&pause=1600&color=E0818E&center=true&vCenter=true&repeat=true&width=650&height=42&lines=%3E+Welcome+to+my+workspace_;%3E+Building+Android+experiences...;%3E+Exploring+the+open-source+world." alt="Animated Terminal">
+
+<br>
+
+![Android](https://img.shields.io/badge/Android-Development-E0818E?style=flat-square&labelColor=76352B&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Enthusiast-E7D0B3?style=flat-square&labelColor=76352B&logo=linux&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Projects-E0818E?style=flat-square&labelColor=76352B&logo=github&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/FEATURED-PROJECTS-E0818E?style=for-the-badge&labelColor=76352B)
+
+*Things I'm creating and exploring.*
+
+</div>
+
+### 🌸 Muri UI
+
+![Status](https://img.shields.io/badge/STATUS-In_Development-E7D0B3?style=flat-square&labelColor=76352B)
+![Type](https://img.shields.io/badge/TYPE-Android_ROM-E0818E?style=flat-square&labelColor=76352B)
+
+**Muri UI** is my personal Android ROM project, focused on customization, interface design, and creating unique Android experiences.
+
+Currently undergoing a complete redesign and development.
+
+### ✦ Roxy Team Labs
+
+![Status](https://img.shields.io/badge/STATUS-Active-E0818E?style=flat-square&labelColor=76352B)
+![Type](https://img.shields.io/badge/TYPE-Development_Team-E7D0B3?style=flat-square&labelColor=76352B)
+
+**Roxy Team Labs** is my development space for Android projects, software experiments, and creative ideas.
+
+A place to learn, build, and share.
+
+<br>
+
+<div align="center">
+
+![Development](https://img.shields.io/badge/CURRENTLY-EXPLORING-E0818E?style=for-the-badge&labelColor=76352B)
+
+*Learning something new, one step at a time.*
+
+</div>
+
+```text
+~/workspace
+│
+├── android/
+│   ├── custom-roms
+│   ├── aosp
+│   └── device-development
+│
+├── programming/
+│   ├── python
+│   └── backend-development
+│
+└── creative/
+    ├── ui-design
+    └── open-source
+```
+
+<br>
+
+<div align="center">
+
+![Tech Stack](https://img.shields.io/badge/TECH-STACK-E0818E?style=for-the-badge&labelColor=76352B)
+
+*Tools and technologies I use or study.*
+
+<br>
+
+![Android](https://img.shields.io/badge/Android-E0818E?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-76352B?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E0818E?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-76352B?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-E0818E?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-76352B?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Statistics](https://img.shields.io/badge/GITHUB-STATISTICS-E0818E?style=for-the-badge&labelColor=76352B)
+
+*My little corner of GitHub.*
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naka-Harune&show_icons=true&hide_border=true&bg_color=E7D0B3&title_color=76352B&text_color=76352B&icon_color=E0818E&ring_color=E0818E" height="165" alt="GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naka-Harune&layout=compact&hide_border=true&bg_color=E7D0B3&title_color=76352B&text_color=76352B" height="165" alt="Most Used Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Connect](https://img.shields.io/badge/LET'S-CONNECT-E0818E?style=for-the-badge&labelColor=76352B)
+
+*Find my projects and follow my journey.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Naka--Harune-E0818E?style=for-the-badge&logo=github&logoColor=white&labelColor=76352B)](https://github.com/Naka-Harune)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E0818E&height=2&section=footer" width="100%" alt="Divider">
+
+<sub>Made with curiosity, creativity & a little bit of sakura. 🌸</sub>
+
+</div>
